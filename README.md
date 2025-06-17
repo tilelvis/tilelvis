@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elvis Kiprono</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h3 align="center">A passionate Data Scientist from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elvis07jr&label=Profile%20views&color=0e75b6&style=flat" alt="elvis07jr" /> </p>
 
