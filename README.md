@@ -84,11 +84,11 @@ Other cool stats options:
 ---
 
 <h3 align="center">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/0x1no" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0x1no" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/elvis-kiprono-0617747b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elvis-kiprono-0617747b" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/elvis-kiprono" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="elvis-kiprono" height="30" width="40" /></a>
-<a href="https://fb.com/tilelvis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tilelvis" height="30" width="40" /></a>
+<p align="center">
+<a href="https://twitter.com/0x1no" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0x1no" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/elvis-kiprono-0617747b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elvis-kiprono-0617747b" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/elvis-kiprono" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="elvis-kiprono" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://fb.com/tilelvis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tilelvis" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/juzi.tu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juzi.tu" height="30" width="40" /></a>
 </p>
 
