@@ -21,47 +21,61 @@ I'm a [Your Title/Role - e.g., Passionate Software Developer, Creative Full-Stac
 
 <h2 align="center">🛠️ My Skills & Tools</h2>
 
-**Languages:**
 <table>
-  <tr><td>JavaScript</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></td></tr>
-  <tr><td>Python</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></td></tr>
-  <tr><td>TypeScript</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></td></tr>
-  <!-- Add more language icons/names -->
-</table>
-
-**Frontend Development:**
-<table>
-  <tr><td>React</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></td></tr>
-  <tr><td>Vue</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></td></tr>
-  <tr><td>Angular</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></td></tr>
-  <tr><td>HTML5</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html5/html5.png"></td></tr>
-  <tr><td>CSS3</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css3/css3.png"></td></tr>
-  <!-- Add more frontend icons/names -->
-</table>
-
-**Backend Development:**
-<table>
-  <tr><td>Node.js</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></td></tr>
-  <tr><td>Django</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></td></tr>
-  <tr><td>Flask</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></td></tr>
-  <!-- Add more backend icons/names -->
-</table>
-
-**Databases:**
-<table>
-  <tr><td>MongoDB</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></td></tr>
-  <tr><td>PostgreSQL</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></td></tr>
-  <tr><td>MySQL</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></td></tr>
-  <!-- Add more database icons/names -->
-</table>
-
-**Tools & Platforms:**
-<table>
-  <tr><td>Git</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></td></tr>
-  <tr><td>Docker</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></td></tr>
-  <tr><td>AWS</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></td></tr>
-  <tr><td>Kubernetes</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></td></tr>
-  <!-- Add more tool icons/names -->
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Languages:</strong>
+      <table>
+        <tr><td>JavaScript</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></td></tr>
+        <tr><td>Python</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></td></tr>
+        <tr><td>TypeScript</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></td></tr>
+        <!-- Add more language icons/names -->
+      </table>
+    </td>
+    <td valign="top" width="50%">
+      **Frontend Development:**
+      <table>
+        <tr><td>React</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></td></tr>
+        <tr><td>Vue</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></td></tr>
+        <tr><td>Angular</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></td></tr>
+        <tr><td>HTML5</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html5/html5.png"></td></tr>
+        <tr><td>CSS3</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css3/css3.png"></td></tr>
+        <!-- Add more frontend icons/names -->
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      **Backend Development:**
+      <table>
+        <tr><td>Node.js</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></td></tr>
+        <tr><td>Django</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></td></tr>
+        <tr><td>Flask</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></td></tr>
+        <!-- Add more backend icons/names -->
+      </table>
+    </td>
+    <td valign="top" width="50%">
+      **Databases:**
+      <table>
+        <tr><td>MongoDB</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></td></tr>
+        <tr><td>PostgreSQL</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></td></tr>
+        <tr><td>MySQL</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></td></tr>
+        <!-- Add more database icons/names -->
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" colspan="2">
+      **Tools & Platforms:**
+      <table>
+        <tr><td>Git</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></td></tr>
+        <tr><td>Docker</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></td></tr>
+        <tr><td>AWS</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></td></tr>
+        <tr><td>Kubernetes</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></td></tr>
+        <!-- Add more tool icons/names -->
+      </table>
+    </td>
+  </tr>
 </table>
 
 ---
