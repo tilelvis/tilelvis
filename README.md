@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Your Name]! 👋</h1>
+<h1 align="center">Hi there, I'm Elvis Tile! 👋</h1>
 
 <!-- Optional: Add a cool banner image here -->
 <!-- <p align="center">
@@ -7,15 +7,15 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-I'm a [Your Title/Role - e.g., Passionate Software Developer, Creative Full-Stack Engineer, Data Science Enthusiast] based in [Your Location]. I love building [Types of projects you enjoy] and exploring new technologies.
+I'm a Data Science Enthusiast based in Nairobi, Kenya. I love building innovative systems and exploring new technologies.
 
-*   🌍 I'm based in [Your City/Country]
-*   🖥️ See my portfolio at [Your Portfolio Link (Optional)]
-*   ✉️ You can contact me at [your-email@example.com]
-*   🚀 I'm currently working on [Your Cool Project Name (Optional)]
-*   🧠 I'm learning [New Technology/Skill you're learning]
-*   🤝 I'm open to collaborating on [Types of projects or specific ideas]
-*   ⚡ Fun fact: [A fun, quirky fact about you!]
+*   🌍 I'm based in Nairobi/Kenya
+*   🖥️ See my portfolio at https://linkedin.com/elvis-tile
+*   ✉️ You can contact me at tile.pc@hotmail.com
+*   🚀 I'm currently working on a capstone project (TBA)
+*   🧠 I'm learning Ai/Machine Learning 
+*   🤝 I'm open to collaborating on data-driven projects
+*   ⚡ Fun fact: Git Push is the bottomline.
 
 ---
 
