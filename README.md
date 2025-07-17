@@ -21,7 +21,8 @@ I'm a Data Science Enthusiast based in Nairobi, Kenya. I love building innovativ
 *   ⚡ Fun fact: Git Push is the bottomline.
 
 ---
-## 🧠 My Data Science & Machine Learning Tech Stack
+<h3 align="center">🧠 My Data Science & Machine Learning Tech Stack:</h3>
+<div align="center">
 
 | Category           | Tools & Technologies                                                                                         |
 |--------------------|--------------------------------------------------------------------------------------------------------------|
@@ -36,6 +37,8 @@ I'm a Data Science Enthusiast based in Nairobi, Kenya. I love building innovativ
 | **DevOps & CI/CD**  | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white) ![MLflow](https://img.shields.io/badge/-MLflow-3D3D3D?logo=mlflow&logoColor=white) |
 | **Experiment Tracking** | ![Weights & Biases](https://img.shields.io/badge/-W&B-FFBE00?logo=weightsandbiases&logoColor=black) ![Neptune.ai](https://img.shields.io/badge/-Neptune.ai-191970?logo=neptune&logoColor=white) |
 | **Big Data / Storage** | ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?logo=apachehadoop&logoColor=white) ![BigQuery](https://img.shields.io/badge/-BigQuery-669DF6?logo=googlebigquery&logoColor=white) ![S3](https://img.shields.io/badge/-S3-569A31?logo=amazons3&logoColor=white) |
+
+</div>
 
 ---
 
@@ -68,8 +71,6 @@ Other cool stats options:
 ---
 
 <h2 align="center">✨ Pinned Repositories</h2>
-
-*(GitHub automatically displays your pinned repositories here. You can manage them from your GitHub profile page.)*
 
 ---
 
