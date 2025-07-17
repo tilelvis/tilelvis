@@ -18,7 +18,6 @@ I'm a Data Science Enthusiast based in Nairobi, Kenya. I love building innovativ
 *   ⚡ Fun fact: Git Push is the bottomline.
 
 ---
-
 <table>
   <tr>
     <th>Languages</th>
@@ -62,7 +61,9 @@ I'm a Data Science Enthusiast based in Nairobi, Kenya. I love building innovativ
     <td></td>
     <td></td>
   </tr>
-</table>---
+</table>
+
+---
 
 <h2 align="center">📊 My GitHub Stats</h2>
 
