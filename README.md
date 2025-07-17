@@ -19,64 +19,13 @@ I'm a Data Science Enthusiast based in Nairobi, Kenya. I love building innovativ
 
 ---
 
-<h2 align="center">🛠️ My Skills & Tools</h2>
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Languages:</strong>
-      <table>
-        <tr><td>JavaScript</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></td></tr>
-        <tr><td>Python</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></td></tr>
-        <tr><td>TypeScript</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></td></tr>
-        <!-- Add more language icons/names -->
-      </table>
-    </td>
-    <td valign="top" width="50%">
-      **Frontend Development:**
-      <table>
-        <tr><td>React</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></td></tr>
-        <tr><td>Vue</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></td></tr>
-        <tr><td>Angular</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></td></tr>
-        <tr><td>HTML5</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html5/html5.png"></td></tr>
-        <tr><td>CSS3</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css3/css3.png"></td></tr>
-        <!-- Add more frontend icons/names -->
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      **Backend Development:**
-      <table>
-        <tr><td>Node.js</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></td></tr>
-        <tr><td>Django</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></td></tr>
-        <tr><td>Flask</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></td></tr>
-        <!-- Add more backend icons/names -->
-      </table>
-    </td>
-    <td valign="top" width="50%">
-      **Databases:**
-      <table>
-        <tr><td>MongoDB</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></td></tr>
-        <tr><td>PostgreSQL</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></td></tr>
-        <tr><td>MySQL</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></td></tr>
-        <!-- Add more database icons/names -->
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" colspan="2">
-      **Tools & Platforms:**
-      <table>
-        <tr><td>Git</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></td></tr>
-        <tr><td>Docker</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></td></tr>
-        <tr><td>AWS</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></td></tr>
-        <tr><td>Kubernetes</td><td><img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></td></tr>
-        <!-- Add more tool icons/names -->
-      </table>
-    </td>
-  </tr>
-</table>
+| **Languages**         | **Frontend Development** | **Backend Development** | **Databases**       | **Tools & Platforms** |
+|-----------------------|--------------------------|-------------------------|---------------------|-----------------------|
+| JavaScript <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/javascript.svg" alt="JS" width="20"/> | React <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/react.svg" alt="React" width="20"/> | Node.js <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/nodejs.svg" alt="Node.js" width="20"/> | MongoDB <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/mongodb.svg" alt="MongoDB" width="20"/> | Git <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/git.svg" alt="Git" width="20"/> |
+| Python <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/python.svg" alt="Python" width="20"/> | Vue <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/vuejs.svg" alt="Vue" width="20"/> | Django <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/django.svg" alt="Django" width="20"/> | PostgreSQL <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/postgresql.svg" alt="PostgreSQL" width="20"/> | Docker <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/docker.svg" alt="Docker" width="20"/> |
+| TypeScript <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/typescript.svg" alt="TypeScript" width="20"/> | Angular <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/angular.svg" alt="Angular" width="20"/> | Flask <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/flask.svg" alt="Flask" width="20"/> | MySQL <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/mysql.svg" alt="MySQL" width="20"/> | AWS <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/amazonaws.svg" alt="AWS" width="20"/> |
+|                       | HTML5 <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/html5.svg" alt="HTML5" width="20"/> |                     |                     | Kubernetes <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/kubernetes.svg" alt="Kubernetes" width="20"/> |
+|                       | CSS3 <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/css3.svg" alt="CSS3" width="20"/> |                     |                     |                     |
 
 ---
 
