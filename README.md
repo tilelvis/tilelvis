@@ -19,15 +19,50 @@ I'm a Data Science Enthusiast based in Nairobi, Kenya. I love building innovativ
 
 ---
 
-| **Languages**         | **Frontend Development** | **Backend Development** | **Databases**       | **Tools & Platforms** |
-|-----------------------|--------------------------|-------------------------|---------------------|-----------------------|
-| JavaScript <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/javascript.svg" alt="JS" width="20"/> | React <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/react.svg" alt="React" width="20"/> | Node.js <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/nodejs.svg" alt="Node.js" width="20"/> | MongoDB <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/mongodb.svg" alt="MongoDB" width="20"/> | Git <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/git.svg" alt="Git" width="20"/> |
-| Python <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/python.svg" alt="Python" width="20"/> | Vue <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/vuejs.svg" alt="Vue" width="20"/> | Django <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/django.svg" alt="Django" width="20"/> | PostgreSQL <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/postgresql.svg" alt="PostgreSQL" width="20"/> | Docker <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/docker.svg" alt="Docker" width="20"/> |
-| TypeScript <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/typescript.svg" alt="TypeScript" width="20"/> | Angular <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/angular.svg" alt="Angular" width="20"/> | Flask <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/flask.svg" alt="Flask" width="20"/> | MySQL <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/mysql.svg" alt="MySQL" width="20"/> | AWS <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/amazonaws.svg" alt="AWS" width="20"/> |
-|                       | HTML5 <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/html5.svg" alt="HTML5" width="20"/> |                     |                     | Kubernetes <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/kubernetes.svg" alt="Kubernetes" width="20"/> |
-|                       | CSS3 <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/css3.svg" alt="CSS3" width="20"/> |                     |                     |                     |
-
----
+<table>
+  <tr>
+    <th>Languages</th>
+    <th>Frontend Development</th>
+    <th>Backend Development</th>
+    <th>Databases</th>
+    <th>Tools & Platforms</th>
+  </tr>
+  <tr>
+    <td>JavaScript <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/javascript.svg" alt="JS" width="20"/></td>
+    <td>React <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/react.svg" alt="React" width="20"/></td>
+    <td>Node.js <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/nodejs.svg" alt="Node.js" width="20"/></td>
+    <td>MongoDB <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/mongodb.svg" alt="MongoDB" width="20"/></td>
+    <td>Git <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/git.svg" alt="Git" width="20"/></td>
+  </tr>
+  <tr>
+    <td>Python <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/python.svg" alt="Python" width="20"/></td>
+    <td>Vue <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/vuejs.svg" alt="Vue" width="20"/></td>
+    <td>Django <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/django.svg" alt="Django" width="20"/></td>
+    <td>PostgreSQL <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/postgresql.svg" alt="PostgreSQL" width="20"/></td>
+    <td>Docker <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/docker.svg" alt="Docker" width="20"/></td>
+  </tr>
+  <tr>
+    <td>TypeScript <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/typescript.svg" alt="TypeScript" width="20"/></td>
+    <td>Angular <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/angular.svg" alt="Angular" width="20"/></td>
+    <td>Flask <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/flask.svg" alt="Flask" width="20"/></td>
+    <td>MySQL <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/mysql.svg" alt="MySQL" width="20"/></td>
+    <td>AWS <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/amazonaws.svg" alt="AWS" width="20"/></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>HTML5 <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/html5.svg" alt="HTML5" width="20"/></td>
+    <td></td>
+    <td></td>
+    <td>Kubernetes <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/kubernetes.svg" alt="Kubernetes" width="20"/></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>CSS3 <img src="https://cdn.jsdelivr.net/npm/simple-icons @3.0.1/icons/css3.svg" alt="CSS3" width="20"/></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>---
 
 <h2 align="center">📊 My GitHub Stats</h2>
 
