@@ -1,14 +1,4 @@
-
-<h1 align="center">
-  <img width="1536" height="1024" alt="ChatGPT Image Jul 17, 2025, 06_31_01 PM" src="https://github.com/user-attachments/assets/7aa6d471-aa6a-4747-9c34-0686c84b785f" />
-</h1>
-
-<!-- Optional: Add a cool banner image here -->
-<!-- <p align="center">
-  <img src="path/to/your/banner.gif" alt="Welcome Banner" width="600"/>
-</p> -->
-
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center">👨‍💻 Elvis Tile</h2>
 
 I'm a Data Science Enthusiast based in Nairobi, Kenya. I love building innovative systems and exploring new technologies.
 
