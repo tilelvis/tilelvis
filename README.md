@@ -3,7 +3,7 @@
 I'm a Data Science Enthusiast based in Nairobi, Kenya. I love building innovative systems and exploring new technologies.
 
 *   🌍 I'm based in Nairobi/Kenya
-*   🖥️ See my portfolio at https://linkedin.com/elvis-tile
+*   🖥️ See my portfolio at [Elvis Tile](https://www.linkedin.com/in/elvis-tile/)
 *   ✉️ You can contact me at tile.pc@hotmail.com
 *   🚀 I'm currently working on a capstone project (TBA)
 *   🧠 I'm learning Ai/Machine Learning 
