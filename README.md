@@ -36,8 +36,8 @@ I'm a Data Science Enthusiast based in Nairobi, Kenya. I love building innovativ
 
 <!-- Replace `elvis07jr` with your actual GitHub username -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elvis07jr&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvis07jr&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tilelvis&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tilelvis&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <!--
