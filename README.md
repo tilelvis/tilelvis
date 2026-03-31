@@ -5,7 +5,6 @@ I'm a Data Science Enthusiast based in Nairobi, Kenya. I love building innovativ
 *   🌍 I'm based in Nairobi/Kenya
 *   🖥️ See my portfolio at [Elvis Tile](https://www.linkedin.com/in/elvis-tile/)
 *   ✉️ You can contact me at tile.pc@hotmail.com
-*   🚀 I'm currently working on a capstone project (TBA)
 *   🧠 I'm learning Ai/Machine Learning 
 *   🤝 I'm open to collaborating on data-driven projects
 *   ⚡ Fun fact: Git Push is the bottomline.
